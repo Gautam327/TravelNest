@@ -1,6 +1,6 @@
 # TravelNest 🏡
 
-Welcome to our Airbnb Clone web application! Explore and experience the joy of finding your perfect accommodation with ease. This project replicates some of the core features of the Airbnb platform, providing users with a seamless booking experience.
+Welcome to our  web application! Explore and experience the joy of finding your perfect accommodation with ease. This project replicates some of the core features of the Airbnb platform, providing users with a seamless booking experience.
 
 ## Technologies Used 🚀
 
